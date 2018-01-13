@@ -65,7 +65,7 @@ li a:hover {
 .podlinki li a {
     text-decoration: none;
     color: black;
-    padding: 3px 70px;
+    padding: 3.5px 70px;
     position: relative;
     left: 14%;
     top: 3px;
