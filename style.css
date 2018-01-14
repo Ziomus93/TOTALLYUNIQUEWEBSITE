@@ -171,3 +171,23 @@ a:active {
 .firma {
     font-weight: bold;
 }
+
+.mapa {
+    width: 70%;
+    height: 50%;
+    float: left;
+    display: block;
+}
+
+.danek {
+    width: 30%;
+    height: 20%;
+    background: green;
+    float: left;
+    display: block;
+}
+
+.map {
+    width: 100%;
+    height: 100%;
+}
